@@ -28,7 +28,7 @@ These applications, while enhancing the interpretability of published data, ofte
 
 ## Data Sources
 | Type | Description | Source |
----
+| --- | --- | --- |
 | Demographics | Detailed Listing of total trend-indicator value (TIV) of a country arms imports or exports, broken down by supplier, recipient | https://www.sipri.org/databases/armstransfers |
 | Demographics | Detailed listing of World Economic and Population Indicators	| https://www.worldbank.org/ |
 | Demographics | Detailed listing of Global Peace Index of Countries | http://economicsandpeace.org/ |
