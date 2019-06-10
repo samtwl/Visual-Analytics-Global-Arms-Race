@@ -4,6 +4,9 @@ This repository contains several exploratory data analysis on the global arms tr
 ## Overview
 The global arms trade has been a major concern as the international transfer of arms between states could lead to wars, crimes against humanity and contribute to serious violations of international human rights. The Stockholm International Peace Research Institute (SIPRI) conducts research on arms transfers between regions and states aimed at increasing the fundamental understanding of the impact of arms transfers and to support policymaking. SIPRI aims to contribute to greater transparency in the global arms trade to ensure responsible international arms transfers, hence helping to prevent violent conflict, alleviate tensions and warn about potentially destabilizing arms accumulations. Based on the latest publication by SIPRI in 2017, a rising trend is observed in the volume of international transfers of major weapons, with the highest volume of arm transfers recorded between 2013 to 2017, since 1990 [1]. Research conducted by SIPRI also shows that the global arms trade industry is continuing to export weapons into for deadly armed conflicts. [2]
 
+### Trend in International Arms Transfers,1978 to 2017
+![TIV_Trends](https://user-images.githubusercontent.com/50171205/59175042-8719bc00-8b86-11e9-9fd8-18fab3c46469.jpg)
+
 ## Motivation and Objectives
 Based on the Global Peace Index 2018 published by the Institute for Economics and Peace, we have identified the countries with 'Low' and 'Very Low Peace' global peace index. [3]
 
