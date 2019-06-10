@@ -57,7 +57,23 @@ These applications, while enhancing the interpretability of published data, ofte
 • janitor
 
 ## Design Framework
-A detail description of the design principles used and data visualisation elements built
+### Overview of Global Peace Index for Each Country
+![2018 Global Peace Index](https://user-images.githubusercontent.com/50171205/59175750-3b1c4680-8b89-11e9-8fb3-7d144f2d5c22.png)
+
+### Top 100 Importers from 1993 to 2017
+![Top 100 Importers from 1993 to 2017](https://user-images.githubusercontent.com/50171205/59175791-643cd700-8b89-11e9-9077-c47aa10df540.png)
+
+### Visualization of Arms Dependencies
+![Visualization of Arms Dependencies](https://user-images.githubusercontent.com/50171205/59175818-820a3c00-8b89-11e9-9b13-9c56d6e208cc.png)
+
+### Visualization of Arms Trade Over Time
+![Visualization of Arms Trade Over Time](https://user-images.githubusercontent.com/50171205/59175830-8c2c3a80-8b89-11e9-9367-8e1a6dacac46.png)
+
+### Visualization of Arms Import by FDI, GDP & Population Size
+![Visualization of Arms Trade by FDI, GDP   Population Size](https://user-images.githubusercontent.com/50171205/59175827-8a627700-8b89-11e9-8342-6cf058916de3.png)
+
+### Visualization of Arms Trade Network
+![Visualization of Arms Trade Network](https://user-images.githubusercontent.com/50171205/59175828-8afb0d80-8b89-11e9-83f1-1fbfdf28d9fd.png)
 
 ## Future Work
 The Arms Trade visualization application has some areas of potential to be extended and enhanced further.
